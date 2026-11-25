@@ -1,0 +1,17 @@
+<CodeBlock language="text" editable>
+venv/
+myenv/
+.venv/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.db
+.env
+.streamlit/secrets.toml
+dataset/
+reports/
+calibration/*.npz
+*_backup.py
+backup_calibration.npz
+</CodeBlock>

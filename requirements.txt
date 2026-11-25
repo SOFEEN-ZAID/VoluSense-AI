@@ -1,0 +1,10 @@
+<CodeBlock language="text" editable>
+opencv-python
+numpy
+scipy
+streamlit
+pandas
+plotly
+Pillow
+ultralytics
+</CodeBlock>
